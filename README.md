@@ -1,4 +1,4 @@
-### Hi there 👋
+### Coming soon i'll fill this blank with great things 👋
 
 <!--
 **goodmeow/goodmeow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
