@@ -15,5 +15,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
   <a href="https://github.com/goodmeow">
-    <img width="70%" align="center" alt="goodmeow's github stats" src="https://github-readme-stats.vercel.app/api?username=goodmeow&show_icons=true&hide_border=true" />
+    <img width="70%" align="center" alt="goodmeow's github stats" src="https://github-readme-stats.vercel.app/api?username=goodmeow&show_icons=true&hide_border=true&theme=radical" />
   </a>
+</p>
