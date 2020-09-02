@@ -1,4 +1,5 @@
 ### Hi, welcome to my Github 👋
+![Profile views](https://komarev.com/ghpvc/?username=goodmeow&styles=plastic&color=ff69b4)
 
 - 🔭 I’m currently Active looking for a job.
 - 🌱 I’m currently learning Web-Development, Android Open Source Project
