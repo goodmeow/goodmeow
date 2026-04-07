@@ -1,20 +1,17 @@
-### Hi, welcome to my Github 👋
-![Profile views](https://komarev.com/ghpvc/?username=goodmeow&styles=plastic&color=ff69b4)
+### Hi, welcome to my Github
 
-- 🌱 I’m currently learning Web-Development, Android Open Source Project
-- 👯 I’m looking to collaborate on both my learning things
+![Profile views](https://komarev.com/ghpvc/?username=goodmeow&style=plastic&color=ff69b4)
 
-<!--
-- 💬 Ask me about 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
-<p>
-  <a href="https://github.com/goodmeow">
-    <img width="70%" align="center" alt="goodmeow's github stats" src="https://github-readme-stats.vercel.app/api?username=goodmeow&show_icons=true&hide_border=true&theme=radical" />
-  </a>
-</p>
+---
+## current
+
+- Sysadmin    -- Ubuntu Server, Zabbix, Hyper-V, Windows Server, Active Directory
+- Networking  -- OpenWrt, MikroTik, FortiGate, ZTNA
+- Automation  -- Docker, Bash Scripting
+- Cloud       -- Microsoft 365, Entra ID, SharePoint Online
+- Certs       -- Fortinet FCA · FortiGate 7.6 Operator · Cisco Networking Basics · AWS Cloud Practitioner · EF SET C1
+
+## previously
+
+- Web Development
+- Android Open Source Project (AOSP)
